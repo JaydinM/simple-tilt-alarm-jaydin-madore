@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="0k^+|S4SD1FmOf.c6Z5#" x="20" y="20"/><block type="device_forever" id="t%mpCHAxy%+$e@7~bZOq" x="225" y="20"/><block type="device_gesture_event" id="YH?O^6Yw,xzi,z1AjkxQ" x="32" y="180"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="v;)N(1ib8k^4bNi0CJo9"><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        # . # . #
+        `</field><next><block type="playMelody" id="!$|b?Z`{qxx.n[hx)hqz"><value name="melody"><shadow type="melody_editor" id="ZfPfS^y)Qwh6;wtv_VGI"><field name="melody">"G A B B B A G G "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="V^vQC;Jc0tbXi:CK1LKF"><mutation min="40" max="500" label="Tempo" precision="0"/><field name="SLIDER">120</field></shadow></value></block></next></block></statement></block></xml>
